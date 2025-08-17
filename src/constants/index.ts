@@ -216,7 +216,7 @@ const projects: TProject[] = [
       },
     ],
     image: fitviz,
-    sourceCodeLink: "https://github.com/Zaeem-Nadeem/virtualTryOnFyp",
+    sourceCodeLink: "https://fitviz.vercel.app/",
   },
   {
     name: "AI Video Generator",
