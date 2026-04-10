@@ -26,3 +26,18 @@ dist-ssr
 
 backup/
 .env
+
+# TypeScript build cache
+*.tsbuildinfo
+
+# Temporary debug/extraction files
+temp_log.txt
+git_log_utf8.txt
+*.md
+!README.md
+resume_text*.md
+tsc_errors.txt
+old_*.ts
+old_*.tsx
+old_*.txt
+test.js
