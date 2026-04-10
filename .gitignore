@@ -22,10 +22,7 @@ dist-ssr
 *.njsproj
 *.sln
 *.sw?
+.npmrc
 
-# git
-.git
-
-# env
+backup/
 .env
-
